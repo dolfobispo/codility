@@ -1,4 +1,5 @@
 # codility 
+Lessons: https://app.codility.com/programmers/lessons/1-iterations/ <br/>
 Some codility tests I've got 100% ( Java Solution ) <br/>
 
 BinaryGap <br/>
