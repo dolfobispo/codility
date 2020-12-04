@@ -6,6 +6,7 @@ BinaryGap <br/>
 RightRotation <br/>
 MissingInteger <br/>
 OddOcurrencesInArray <br/>
+MaxCounters </br>
 Brackets <br/>
 Distinct <br/>
 Dominator <br/>
